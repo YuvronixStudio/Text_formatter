@@ -1,0 +1,98 @@
+# Commercial License Agreement
+
+Copyright (c) 2026 Yuvraj
+
+This license governs the use of the **Text Cleanup & Formatting Toolkit** (the “Product”).
+
+By purchasing, downloading, or using this Product, you agree to the following terms:
+
+---
+
+## ✅ You ARE allowed to:
+
+* Use the Product for personal and commercial projects
+* Modify, customize, and adapt the code
+* Use the Product in client work
+* Integrate the Product into websites, apps, or internal tools
+
+---
+
+## ❌ You are NOT allowed to:
+
+* Resell, redistribute, or sublicense the Product (in whole or in part)
+* Share the source code publicly (e.g., GitHub, forums, file-sharing sites)
+* Include the Product in any competing product, template, or bundle for sale
+* Offer the Product as a downloadable or standalone tool to others
+* Claim the original Product as your own
+
+---
+
+## 📦 Redistribution Restrictions
+
+This Product is licensed, not sold.
+
+You may NOT:
+
+* Repackage and sell this Product
+* Give away the source code for free
+* Upload it to marketplaces, repositories, or communities
+
+---
+
+## 🛠️ Modification Clause
+
+You are allowed to modify the Product.
+
+However, even after modification, you may NOT:
+
+* Resell it as a standalone or competing product
+* Distribute the modified source code publicly
+
+---
+
+## 👤 Single User License
+
+Each purchase grants a license to one user or one organization.
+
+If multiple people need access, additional licenses must be purchased.
+
+---
+
+## ⚠️ Liability
+
+The Product is provided “as is”, without warranty of any kind.
+
+The author is not liable for any damages or issues resulting from its use.
+
+---
+
+## 🔒 Termination
+
+This license is automatically terminated if you violate any of these terms.
+
+Upon termination, you must stop using the Product and delete all copies.
+
+---
+
+## 📩 Contact
+
+For licensing questions or custom permissions, contact:
+yuvronixstudio.555@gmail.com
+
+---
+
+## 💡 Summary (Plain English)
+
+You can:
+✔ Use it
+✔ Modify it
+✔ Use it in your projects
+
+You cannot:
+✖ Resell it
+✖ Share it
+✖ Upload it anywhere publicly
+
+---
+
+This license ensures you get full usage rights without allowing redistribution or resale.
