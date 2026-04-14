@@ -52,9 +52,13 @@ No external libraries or frameworks are used.
 ## Project Structure
 
 /text-formatter
+
 ├── index.html     # Main UI structure
+
 ├── styles.css     # Styling and layout
+
 ├── script.js      # Core logic and functionality
+
 └── README.md      # Documentation
 
 ## Getting Started
